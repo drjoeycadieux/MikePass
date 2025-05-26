@@ -126,7 +126,7 @@ export function PasswordGenerator() {
       <CardHeader className="text-center">
         <div className="flex items-center justify-center gap-2 mb-2">
           <KeyRound className="h-10 w-10 text-primary" />
-          <CardTitle className="text-4xl font-bold tracking-tight">PassForge</CardTitle>
+          <CardTitle className="text-4xl font-bold tracking-tight">MikePass</CardTitle>
         </div>
         <CardDescription className="text-lg">
           Generate strong, secure passwords tailored to your needs.

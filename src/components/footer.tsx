@@ -17,7 +17,7 @@ export function Footer() {
           .
         </p>
         <a
-          href="https://github.com/pinkythegawd/passforge" // Assuming a repo name, can be updated
+          href="https://github.com/pinkythegawd/mikepass" 
           target="_blank"
           rel="noreferrer"
           className="font-medium underline underline-offset-4 hover:text-primary transition-colors flex items-center gap-1"

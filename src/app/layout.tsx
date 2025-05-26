@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'PassForge - Strong Password Generator',
-  description: 'Generate strong, secure passwords with PassForge. Customize length, character sets, and check password strength with AI analysis.',
+  title: 'MikePass - Strong Password Generator',
+  description: 'Generate strong, secure passwords with MikePass. Customize length, character sets, and check password strength with AI analysis.',
 };
 
 export default function RootLayout({
