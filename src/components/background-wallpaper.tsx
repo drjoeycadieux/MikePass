@@ -11,7 +11,7 @@ type BackgroundWallpaperProps = {
 
 export function BackgroundWallpaper({
   imageUrl = 'https://placehold.co/1920x1080.png',
-  aiHint = 'abstract security',
+  aiHint = 'clouds sky',
   altText = 'Site background wallpaper',
 }: BackgroundWallpaperProps) {
   return (
