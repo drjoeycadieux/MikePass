@@ -10,8 +10,8 @@ type BackgroundWallpaperProps = {
 };
 
 export function BackgroundWallpaper({
-  imageUrl = 'https://placehold.co/1920x1080.png',
-  aiHint = 'clouds sky',
+  imageUrl = 'https://i.ibb.co/60DqLj99/pexels-no-name-14543-66997.jpg',
+  aiHint = 'abstract network',
   altText = 'Site background wallpaper',
 }: BackgroundWallpaperProps) {
   return (
