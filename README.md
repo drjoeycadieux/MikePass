@@ -150,3 +150,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Built with ❤️ by [MikePinku](https://github.com/pinkythegawd).
 Enjoy generating secure passwords!
+
+##
+
+<img src="https://raw.githubusercontent.com/pinkythegawd/pinkythegawd/refs/heads/main/github-header-image%20(1).png" style="width: 80%">
